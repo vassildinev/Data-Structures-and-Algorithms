@@ -1,0 +1,11 @@
+10
+New 5 tk
+New 8 tn
+New 8 taa
+New 8 tb
+New 8 t
+Solve
+Solve
+Solve
+Solve
+New 1999999999 task
