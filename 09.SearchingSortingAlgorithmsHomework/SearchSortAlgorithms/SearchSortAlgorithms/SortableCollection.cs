@@ -50,6 +50,7 @@
 
         public void Shuffle()
         {
+            // Fisher–Yates shuffle -> O(n)
             this.ShuffleFisherYates(this.Items);
         }
 
